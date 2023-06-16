@@ -1,0 +1,33 @@
+
+body{
+    
+}
+
+
+img{
+    height: 90px ;
+
+
+}
+
+.container-1{
+    display: flex;
+    font-size: small;
+    gap:1rem;
+}
+
+.container-2{
+    
+    
+    
+}
+
+.grassetto{
+    font-size:medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.minuscolo{
+    font-size:x-small;
+}
