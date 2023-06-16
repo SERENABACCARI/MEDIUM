@@ -1,33 +1,26 @@
-
-body{
-    
-}
-
-
-img{
-    height: 90px ;
-
+img {
+    height: 60px;
 
 }
 
-.container-1{
+
+.container-1 {
     display: flex;
     font-size: small;
-    gap:1rem;
+    gap: 1rem;
 }
 
-.container-2{
-    
-    
-    
+.container-2 {
+
+    align-content: center;
 }
 
-.grassetto{
-    font-size:medium;
+.grassetto {
+    font-size: medium;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
+    
 }
 
-.minuscolo{
-    font-size:x-small;
+.minuscolo {
+    font-size: x-small;
 }
