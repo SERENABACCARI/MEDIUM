@@ -1,7 +1,15 @@
+body{
+    padding: 80px;
+    
+}
+
+
+
 img {
     height: 60px;
 
 }
+
 
 
 .container-1 {
@@ -10,17 +18,29 @@ img {
     gap: 1rem;
 }
 
-.container-2 {
-
-    align-content: center;
+.conteiner-2{
+     
 }
 
 .grassetto {
     font-size: medium;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+
 }
 
 .minuscolo {
     font-size: x-small;
+}
+
+div img{
+    height: 100px;
+    float:right;
+   
+        
+}
+
+.conteiner-3{
+    justify-content: center;
+    align-items: flex-start;
+
 }
